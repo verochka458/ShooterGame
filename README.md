@@ -22,6 +22,8 @@ Environment elements may include:
 
 These objects create the game space where the player and enemies interact. 
 
+![](Снимок экрана 2025-05-11 152047.png)
+
 ---
 
 # Player
