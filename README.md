@@ -22,7 +22,7 @@ Environment elements may include:
 
 These objects create the game space where the player and enemies interact. 
 
-![](Снимок экрана 2025-05-11 152047.png)
+![](https://github.com/verochka458/ShooterGame/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-05-11%20152047.png)
 
 ---
 
