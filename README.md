@@ -8,13 +8,6 @@ The player moves around the environment, shoots enemies, and earns points for ea
 
 ---
 
-# Author
-
-**Issayeva Vera**
-Software Engineering — **SE-2322**
-
----
-
 # Game Structure
 
 ## Scene
